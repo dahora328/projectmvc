@@ -1,0 +1,13 @@
+{
+    "name": "rodri/matricula",
+    "description": "First Project MVC",
+    "authors": [
+        {
+            "name": "dahora328",
+            "email": "rodrigoliveira328@hotmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*"
+    }
+}
